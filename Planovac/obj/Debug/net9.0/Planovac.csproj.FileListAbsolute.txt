@@ -1,0 +1,14 @@
+C:\Users\czechitas\czechitas\U2\Planovac\bin\Debug\net9.0\Planovac.exe
+C:\Users\czechitas\czechitas\U2\Planovac\bin\Debug\net9.0\Planovac.deps.json
+C:\Users\czechitas\czechitas\U2\Planovac\bin\Debug\net9.0\Planovac.runtimeconfig.json
+C:\Users\czechitas\czechitas\U2\Planovac\bin\Debug\net9.0\Planovac.dll
+C:\Users\czechitas\czechitas\U2\Planovac\bin\Debug\net9.0\Planovac.pdb
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.AssemblyInfoInputs.cache
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.AssemblyInfo.cs
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.csproj.CoreCompileInputs.cache
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.dll
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\refint\Planovac.dll
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.pdb
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\Planovac.genruntimeconfig.cache
+C:\Users\czechitas\czechitas\U2\Planovac\obj\Debug\net9.0\ref\Planovac.dll
